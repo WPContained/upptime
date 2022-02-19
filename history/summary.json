@@ -112,19 +112,19 @@
     "url": "https://funfwd.com",
     "icon": "https://favicons.githubusercontent.com/funfwd.com",
     "slug": "funfwd",
-    "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
-    "time": 1854,
-    "timeDay": 1854,
-    "timeWeek": 1854,
-    "timeMonth": 1854,
-    "timeYear": 1854,
+    "status": "up",
+    "uptime": "75.31%",
+    "uptimeDay": "75.31%",
+    "uptimeWeek": "75.31%",
+    "uptimeMonth": "75.31%",
+    "uptimeYear": "75.31%",
+    "time": 1963,
+    "timeDay": 1963,
+    "timeWeek": 1963,
+    "timeMonth": 1963,
+    "timeYear": 1963,
     "dailyMinutesDown": {
-      "2022-02-19": 1
+      "2022-02-19": 17
     }
   },
   {
