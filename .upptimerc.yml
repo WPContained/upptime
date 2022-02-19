@@ -1,7 +1,7 @@
 # Change these first
 owner: WPContained # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
+user-agent: WPContained-upptime
 sites:
   - name: Brabys
     url: https://www.brabys.com/za/plumbers
@@ -68,7 +68,6 @@ status-website:
     - name: "robots"
       content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
-  user-agent: WPContained/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
