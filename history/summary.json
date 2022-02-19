@@ -112,18 +112,20 @@
     "url": "https://funfwd.com",
     "icon": "https://favicons.githubusercontent.com/funfwd.com",
     "slug": "funfwd",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1766,
-    "timeDay": 1766,
-    "timeWeek": 1766,
-    "timeMonth": 1766,
-    "timeYear": 1766,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
+    "time": 1854,
+    "timeDay": 1854,
+    "timeWeek": 1854,
+    "timeMonth": 1854,
+    "timeYear": 1854,
+    "dailyMinutesDown": {
+      "2022-02-19": 1
+    }
   },
   {
     "name": "Belgotex API",
