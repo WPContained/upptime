@@ -7,6 +7,46 @@ sites:
     url: https://www.brabys.com/za/plumbers
   - name: Tyremart
     url: https://www.tyremart.co.za
+  - name: brabysebooks
+    url: http://www.brabysebooks.co.za
+  - name: brabysproducts
+    url: http://www.brabysproducts.co.za
+  - name: admin.goldenspoon.co.za
+    url: https://admin.goldenspoon.co.za
+  - name: bronberg.goldenspoon.co.za
+    url: https://bronberg.goldenspoon.co.za
+  - name: Funfwd
+    url: https://funfwd.com
+  - name: Belgotex API
+    url: https://files.belgotex.co.za/monitor.txt
+  - name: Glassfinder
+    url: https://glassfinder.pgsmartglass.co.za
+  - name: pay.dev.swiffy.co.za
+    url: https://pay.dev.swiffy.co.za
+  - name: Swiffy Pay
+    url: https://pay.swiffy.co.za
+  - name: TM Promo
+    url: https://promo.tyremart.co.za
+  - name: Swiffy USSD Push
+    url: https://ussdpush.swiffy.co.za/ping.txt
+  - name: Ananzi
+    url: https://www.ananzi.co.za
+  - name: Brabys Listing
+    url: https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys
+  - name: Brabys Listing AMP
+    url: https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys?amp=1
+  - name: brabys search
+    url: https://www.brabys.com/za/plumbers
+  - name: brabys search amp
+    url: https://www.brabys.com/za/plumbers?amp=1
+  - name: everything47
+    url: https://www.everything47.com
+  - name: swiffy site
+    url: https://www.swiffy.co.za
+  - name: yellowpages.bw
+    url: https://www.yellowpages.bw
+  - name: yellowpages.bw search
+    url: https://www.yellowpages.bw/results/category/Plumbers    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
