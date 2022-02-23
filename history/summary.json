@@ -191,19 +191,19 @@
     "url": "https://pay.swiffy.co.za",
     "icon": "https://favicons.githubusercontent.com/pay.swiffy.co.za",
     "slug": "swiffy-pay",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 720,
-    "timeDay": 698,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 748,
+    "timeDay": 821,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {
-      "2022-02-23": 1
+      "2022-02-23": 6
     }
   },
   {
