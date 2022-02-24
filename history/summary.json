@@ -317,19 +317,19 @@
     "url": "https://www.brabys.com/za/plumbers?amp=1",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-search-amp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6786,
-    "timeDay": 5092,
-    "timeWeek": 6786,
-    "timeMonth": 6786,
-    "timeYear": 6786,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 6623,
+    "timeDay": 5059,
+    "timeWeek": 6623,
+    "timeMonth": 6623,
+    "timeYear": 6623,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 15
     }
   },
   {
