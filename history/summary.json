@@ -263,19 +263,19 @@
     "url": "https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-listing",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3430,
-    "timeDay": 3775,
-    "timeWeek": 3446,
-    "timeMonth": 3430,
-    "timeYear": 3430,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 3416,
+    "timeDay": 3577,
+    "timeWeek": 3506,
+    "timeMonth": 3416,
+    "timeYear": 3416,
     "dailyMinutesDown": {
-      "2022-02-26": 1
+      "2022-02-26": 14
     }
   },
   {
@@ -283,19 +283,19 @@
     "url": "https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys?amp=1",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-listing-amp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2562,
-    "timeDay": 4633,
-    "timeWeek": 2557,
-    "timeMonth": 2562,
-    "timeYear": 2562,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2569,
+    "timeDay": 3980,
+    "timeWeek": 2631,
+    "timeMonth": 2569,
+    "timeYear": 2569,
     "dailyMinutesDown": {
-      "2022-02-26": 1
+      "2022-02-26": 14
     }
   },
   {
