@@ -267,19 +267,19 @@
     "url": "https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-listing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4691,
-    "timeDay": 2823,
-    "timeWeek": 4476,
-    "timeMonth": 4691,
-    "timeYear": 4691,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4630,
+    "timeDay": 2784,
+    "timeWeek": 4318,
+    "timeMonth": 4630,
+    "timeYear": 4630,
     "dailyMinutesDown": {
-      "2022-03-08": 1
+      "2022-03-08": 8
     }
   },
   {
