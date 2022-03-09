@@ -268,19 +268,17 @@
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-listing",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4630,
     "timeDay": 2784,
     "timeWeek": 4318,
     "timeMonth": 4630,
     "timeYear": 4630,
-    "dailyMinutesDown": {
-      "2022-03-08": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Brabys Listing AMP",
