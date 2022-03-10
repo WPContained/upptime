@@ -4,19 +4,19 @@
     "url": "https://www.brabys.com/za/plumbers",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10263,
-    "timeDay": 10773,
-    "timeWeek": 11596,
-    "timeMonth": 10263,
-    "timeYear": 10263,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 10294,
+    "timeDay": 10901,
+    "timeWeek": 11547,
+    "timeMonth": 10294,
+    "timeYear": 10294,
     "dailyMinutesDown": {
-      "2022-03-10": 1
+      "2022-03-10": 5
     }
   },
   {
