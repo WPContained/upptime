@@ -288,19 +288,17 @@
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-listing-amp",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3053,
     "timeDay": 1997,
     "timeWeek": 2271,
     "timeMonth": 3053,
     "timeYear": 3053,
-    "dailyMinutesDown": {
-      "2022-03-11": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brabys search",
@@ -308,19 +306,17 @@
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-search",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1936,
     "timeDay": 621,
     "timeWeek": 1616,
     "timeMonth": 1936,
     "timeYear": 1936,
-    "dailyMinutesDown": {
-      "2022-03-11": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brabys search amp",
