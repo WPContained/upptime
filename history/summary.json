@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/www.tyremart.co.za",
     "slug": "tyremart",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 3903,
     "timeDay": 3681,
     "timeWeek": 4105,
@@ -323,9 +323,9 @@
     "url": "https://www.brabys.com/za/plumbers?amp=1",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-search-amp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -334,7 +334,9 @@
     "timeWeek": 8163,
     "timeMonth": 7788,
     "timeYear": 7788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   },
   {
     "name": "everything47",
