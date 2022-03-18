@@ -179,19 +179,19 @@
     "url": "https://pay.dev.swiffy.co.za",
     "icon": "https://favicons.githubusercontent.com/pay.dev.swiffy.co.za",
     "slug": "pay-dev-swiffy-co-za",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 895,
     "timeDay": 2414,
     "timeWeek": 1232,
     "timeMonth": 895,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2022-03-18": 10
+      "2022-03-18": 1
     }
   },
   {
