@@ -1,7 +1,7 @@
 url: https://pay.dev.swiffy.co.za
-status: up
-code: 200
-responseTime: 863
-lastUpdated: 2022-03-17T23:09:14.189Z
+status: down
+code: 500
+responseTime: 5705
+lastUpdated: 2022-03-18T10:33:59.822Z
 startTime: Sat Feb 19 2022 08:17:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
