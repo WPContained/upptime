@@ -1,7 +1,7 @@
 url: https://www.brabys.com/za/plumbers
-status: up
-code: 200
-responseTime: 11531
-lastUpdated: 2022-03-19T23:08:45.642Z
+status: down
+code: 500
+responseTime: 10842
+lastUpdated: 2022-03-19T23:15:36.807Z
 startTime: Sat Feb 19 2022 07:50:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
