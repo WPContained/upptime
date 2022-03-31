@@ -4,11 +4,11 @@
     "url": "https://www.brabys.com/za/plumbers",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 10412,
     "timeDay": 6684,
@@ -16,7 +16,7 @@
     "timeMonth": 11051,
     "timeYear": 10412,
     "dailyMinutesDown": {
-      "2022-03-31": 20,
+      "2022-03-31": 22,
       "2022-03-16": 21
     }
   },
@@ -183,11 +183,11 @@
     "icon": "https://favicons.githubusercontent.com/pay.dev.swiffy.co.za",
     "slug": "pay-dev-swiffy-co-za",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.96%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 893,
     "timeDay": 1074,
     "timeWeek": 1005,
@@ -277,10 +277,10 @@
     "url": "https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-listing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 3716,
@@ -289,6 +289,7 @@
     "timeMonth": 3662,
     "timeYear": 3716,
     "dailyMinutesDown": {
+      "2022-03-31": 1,
       "2022-03-18": 21
     }
   },
@@ -297,10 +298,10 @@
     "url": "https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys?amp=1",
     "icon": "https://favicons.githubusercontent.com/www.brabys.com",
     "slug": "brabys-listing-amp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 2815,
@@ -309,6 +310,7 @@
     "timeMonth": 2610,
     "timeYear": 2815,
     "dailyMinutesDown": {
+      "2022-03-31": 1,
       "2022-03-18": 21
     }
   },
