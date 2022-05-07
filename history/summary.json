@@ -125,12 +125,12 @@
     "uptime": "99.67%",
     "uptimeDay": "97.56%",
     "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.54%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.67%",
     "time": 3624,
     "timeDay": 2952,
     "timeWeek": 3984,
-    "timeMonth": 3593,
+    "timeMonth": 3586,
     "timeYear": 3624,
     "dailyMinutesDown": {
       "2022-05-07": 16,
@@ -175,12 +175,12 @@
     "uptime": "99.70%",
     "uptimeDay": "97.56%",
     "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.50%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.70%",
     "time": 3289,
     "timeDay": 3591,
     "timeWeek": 3678,
-    "timeMonth": 3245,
+    "timeMonth": 3255,
     "timeYear": 3289,
     "dailyMinutesDown": {
       "2022-05-07": 16,
@@ -204,18 +204,18 @@
     "icon": "https://favicons.githubusercontent.com/pay.dev.swiffy.co.za",
     "slug": "pay-dev-swiffy-co-za",
     "status": "down",
-    "uptime": "86.58%",
+    "uptime": "86.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.10%",
-    "uptimeYear": "86.58%",
+    "uptimeMonth": "66.57%",
+    "uptimeYear": "86.40%",
     "time": 844,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 776,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-05-07": 406,
+      "2022-05-07": 636,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
@@ -441,9 +441,9 @@
     "url": "https://www.yellowpages.bw",
     "icon": "https://favicons.githubusercontent.com/www.yellowpages.bw",
     "slug": "yellowpages-bw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -452,16 +452,18 @@
     "timeWeek": 2984,
     "timeMonth": 4002,
     "timeYear": 3561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   },
   {
     "name": "yellowpages.bw search",
     "url": "https://www.yellowpages.bw/results/category/Plumbers",
     "icon": "https://favicons.githubusercontent.com/www.yellowpages.bw",
     "slug": "yellowpages-bw-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -470,6 +472,8 @@
     "timeWeek": 793,
     "timeMonth": 800,
     "timeYear": 722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   }
 ]
