@@ -86,19 +86,17 @@
     "icon": "https://favicons.githubusercontent.com/admin.goldenspoon.co.za",
     "slug": "admin-goldenspoon-co-za",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1452,
     "timeDay": 1388,
     "timeWeek": 1554,
     "timeMonth": 1487,
     "timeYear": 1452,
-    "dailyMinutesDown": {
-      "2022-05-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bronberg.goldenspoon.co.za",
@@ -206,18 +204,19 @@
     "icon": "https://favicons.githubusercontent.com/pay.dev.swiffy.co.za",
     "slug": "pay-dev-swiffy-co-za",
     "status": "down",
-    "uptime": "85.79%",
+    "uptime": "85.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.78%",
-    "uptimeYear": "85.79%",
+    "uptimeMonth": "64.67%",
+    "uptimeYear": "85.76%",
     "time": 844,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 783,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-05-07": 1421,
+      "2022-05-08": 28,
+      "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
@@ -444,18 +443,19 @@
     "icon": "https://favicons.githubusercontent.com/www.yellowpages.bw",
     "slug": "yellowpages-bw",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "45.44%",
-    "uptimeWeek": "92.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.26%",
+    "uptimeDay": "42.18%",
+    "uptimeWeek": "91.74%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.26%",
     "time": 3561,
     "timeDay": 0,
     "timeWeek": 2902,
     "timeMonth": 4047,
     "timeYear": 3561,
     "dailyMinutesDown": {
-      "2022-05-07": 786
+      "2022-05-08": 28,
+      "2022-05-07": 804
     }
   },
   {
@@ -464,18 +464,19 @@
     "icon": "https://favicons.githubusercontent.com/www.yellowpages.bw",
     "slug": "yellowpages-bw-search",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "45.45%",
-    "uptimeWeek": "92.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.26%",
+    "uptimeDay": "42.18%",
+    "uptimeWeek": "91.74%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.26%",
     "time": 722,
     "timeDay": 0,
     "timeWeek": 795,
     "timeMonth": 804,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2022-05-07": 786
+      "2022-05-08": 28,
+      "2022-05-07": 804
     }
   }
 ]
