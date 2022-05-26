@@ -88,19 +88,19 @@
     "url": "https://admin.goldenspoon.co.za",
     "icon": "https://favicons.githubusercontent.com/admin.goldenspoon.co.za",
     "slug": "admin-goldenspoon-co-za",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1469,
-    "timeDay": 1342,
-    "timeWeek": 1648,
-    "timeMonth": 1544,
-    "timeYear": 1469,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 1471,
+    "timeDay": 1499,
+    "timeWeek": 1649,
+    "timeMonth": 1547,
+    "timeYear": 1471,
     "dailyMinutesDown": {
-      "2022-05-26": 1
+      "2022-05-26": 30
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://bronberg.goldenspoon.co.za",
     "icon": "https://favicons.githubusercontent.com/bronberg.goldenspoon.co.za",
     "slug": "bronberg-goldenspoon-co-za",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1457,
-    "timeDay": 1375,
-    "timeWeek": 1593,
-    "timeMonth": 1514,
-    "timeYear": 1457,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 1461,
+    "timeDay": 1629,
+    "timeWeek": 1629,
+    "timeMonth": 1526,
+    "timeYear": 1461,
     "dailyMinutesDown": {
-      "2022-05-26": 1
+      "2022-05-26": 29
     }
   },
   {
