@@ -32,9 +32,9 @@ sites:
   - name: Ananzi
     url: https://www.ananzi.co.za
   - name: Brabys Listing
-    url: https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys
+    url: https://www.brabys.com/za/kwazulu-natal/pinetown/call-centres/brabys 
   - name: Brabys Listing AMP
-    url: https://www.brabys.com/za/kwazulu-natal/pinetown/maps/brabys?amp=1
+    url: https://www.brabys.com/za/kwazulu-natal/pinetown/call-centres/brabys?amp=1 
   - name: brabys search
     url: https://www.brabys.com/za/plumbers
   - name: brabys search amp
