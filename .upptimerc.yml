@@ -25,8 +25,8 @@ sites:
     url: https://pay.dev.swiffy.co.za
   - name: Swiffy Pay
     url: https://pay.swiffy.co.za
-  - name: TM Promo
-    url: https://promo.tyremart.co.za
+#  - name: TM Promo
+#    url: https://promo.tyremart.co.za
   - name: Swiffy USSD Push
     url: https://ussdpush.swiffy.co.za/ping.txt
   - name: Ananzi
